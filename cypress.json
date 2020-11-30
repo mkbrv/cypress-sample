@@ -4,5 +4,6 @@
   "viewportHeight": 1080,
   "env": {
   },
-  "supportFile": "cypress/support/index.ts"
+  "supportFile": "cypress/support/index.ts",
+  "projectId": "odsf6c"
 }
