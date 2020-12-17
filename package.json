@@ -5,12 +5,13 @@
   "scripts": {
     "lint": "eslint \"**/*.ts\"",
     "start:debug": "cypress open",
-    "start": "cypress open"
+    "start": "cypress open",
+    "record": "cypress run  --browser chrome --record --key d7947bda-e3eb-4b07-993e-6e68b9782757"
   },
   "dependencies": {
-    "@cypress/webpack-preprocessor": "^5.4.11",
+    "@cypress/webpack-preprocessor": "^5.5.0",
     "awesome-typescript-loader": "^5.2.1",
-    "cypress": "6.0.0"
+    "cypress": "6.1.0"
   },
   "devDependencies": {
     "@types/node": "~14.14.7",

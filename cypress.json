@@ -1,7 +1,7 @@
 {
-  "baseUrl": "https://github.com",
-  "viewportWidth": 1920,
-  "viewportHeight": 1080,
+  "baseUrl": "https://www.izotope.com",
+  "viewportWidth": 1200,
+  "viewportHeight": 1000,
   "env": {
   },
   "supportFile": "cypress/support/index.ts",
